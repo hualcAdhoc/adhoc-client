@@ -1,0 +1,1 @@
+Meteor add Adhoc:adhoc-client
